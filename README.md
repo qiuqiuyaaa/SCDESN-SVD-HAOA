@@ -1,2 +1,2 @@
-# HESN
-Regularization ESN with Improved AOA for Chaotic Time Series Prediction
+# SDESN-SVD-HAOA
+Sparse Deep Echo State Network with Improved Arithmetic Optimization Algorithm for Chaotic Time Series Prediction
