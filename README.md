@@ -1,2 +1,2 @@
-# SDESN-SVD-HAOA
-Sparse Deep Echo State Network with Improved Arithmetic Optimization Algorithm for Chaotic Time Series Prediction
+# SCDESN-SVD-HAOA
+Sparse Compressed Deep Echo State Network with Improved Arithmetic Optimization Algorithm for Chaotic Time Series Prediction
